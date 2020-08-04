@@ -17,4 +17,4 @@ const ToDo = ({ todo, handleTodoDbClick, clearCompletedTodos }) => {
         </Styles>
     )
 }
-export default ToDo
+export default ToDo 
